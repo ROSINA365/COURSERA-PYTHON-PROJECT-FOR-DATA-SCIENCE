@@ -21,7 +21,6 @@ Using the function boxplot in the seaborn library to determine whether houses wi
 
 ![alt text](https://github.com/ROSINA365/COURSERA-PYTHON-PROJECT-FOR-DATA-SCIENCE/blob/main/Images/BoxPlot.png)
 
-<p>Use the function regplot in the seaborn library to determine if the feature sqft_above is negatively or positively correlated with price.<br> We can see that it positively correlates</p>
-![alt text](https://github.com/ROSINA365/COURSERA-PYTHON-PROJECT-FOR-DATA-SCIENCE/blob/main/Images/BoxPlot.png)
+
 
 
