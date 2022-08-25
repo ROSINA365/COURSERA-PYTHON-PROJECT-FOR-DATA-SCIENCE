@@ -16,6 +16,7 @@ The skills gained in this project entail
 9. Overfitting. Underfitting and Model Selection
 10. Ridge Regression
 11. Grid Search
-
+<p>Paragraph.<br/>
+.</p>
 Below are some of the images under descriptive statistics
-![alt text](http://url/to/img.png)
+![alt text](https://github.com/ROSINA365/COURSERA-PYTHON-PROJECT-FOR-DATA-SCIENCE/blob/main/Images/BoxPlot.png)
