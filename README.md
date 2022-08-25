@@ -16,7 +16,7 @@ The skills gained in this project entail
 9. Overfitting. Underfitting and Model Selection
 10. Ridge Regression
 11. Grid Search
-<p>Paragraph.<br/>
-.</p>
-Below are some of the images under descriptive statistics
+<p>
+Using the function boxplot in the seaborn library to determine whether houses with a waterfront view or without a waterfront view have more price outliers.</p>
+
 ![alt text](https://github.com/ROSINA365/COURSERA-PYTHON-PROJECT-FOR-DATA-SCIENCE/blob/main/Images/BoxPlot.png)
