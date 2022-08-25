@@ -1,9 +1,9 @@
 # COURSERA-PYTHON-PROJECT-FOR-DATA-SCIENCE
 This are projects that am doing at the end of each course in my Data Science Professional Certificate on Coursera.
 They entail:
-# Extracting Stock Data Using Python Library.
-# Extracting Stock Data Using Webscraping
-# Determing the Market Price of a house using given Features
+### Extracting Stock Data Using Python Library.
+### Extracting Stock Data Using Webscraping
+### Determing the Market Price of a house using given Features
 The skills gained in this project entail
 1. Analysing python data using a dataset
 2. Applying exploratory Data Analysis on my dataset. This composed of Descriptive Statistics, GroupBy, Correlation
@@ -16,3 +16,6 @@ The skills gained in this project entail
 9. Overfitting. Underfitting and Model Selection
 10. Ridge Regression
 11. Grid Search
+
+Below are some of the images under descriptive statistics
+![alt text](http://url/to/img.png)
